@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "948701222590",
+    "firebase_url": "https://connectio-89f25-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "connectio-89f25",
+    "storage_bucket": "connectio-89f25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948701222590:android:88586624f971d6c77cf0ef",
+        "android_client_info": {
+          "package_name": "com.connectio.connectio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948701222590-b0sct3v9pfv85vnudmrl94uggr3rc41l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.connectio.connectio",
+            "certificate_hash": "d718819fdcff439872adf5cad2b5b619ca444e82"
+          }
+        },
+        {
+          "client_id": "948701222590-3pkf3if46vjfjn9c2c4dgjmm3sph6bqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKuPdPhzed59mU4XahVTVA3UUz_iUq5hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948701222590-3pkf3if46vjfjn9c2c4dgjmm3sph6bqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
